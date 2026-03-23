@@ -11,7 +11,7 @@ function App() {
      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">My App</a>
-          <a className="navbar-brand" href="#">My App</a>
+          <a className="navbar-brand" href="#">Nova app</a>
           <a className="navbar-brand" href="#">My App</a>
         </div>
       </nav>
