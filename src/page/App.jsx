@@ -12,7 +12,7 @@ function App() {
         <div className="container-fluid">
           <a className="navbar-brand" href="#">Home</a>
           <a className="navbar-brand" href="#">Nova app</a>
-          <a className="navbar-brand" href="#">My App</a>
+          <a className="navbar-brand" href="#">zé</a>
         </div>
       </nav>
     </div>
