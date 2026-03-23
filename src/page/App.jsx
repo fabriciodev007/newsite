@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div>
-      <h1 className="text-center text-primary">Seja bem-vindo!</h1>
+      <h1 className="text-center text-primary">Seja bem-vindo! Pucha saco</h1>
      <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">Home</a>
